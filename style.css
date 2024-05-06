@@ -1,0 +1,28 @@
+.background{
+    background-color: black;
+    height: 100px;
+}
+
+.square{
+    height: 100px;
+    width: 300px;
+}
+
+.home{
+    background-image: url(/background.jpg);
+    width: 186vh;
+    height: 600vh;
+    background-attachment: fixed;
+}
+
+.sidenav-trigger{
+    position: fixed;
+}
+
+.img1{
+    height: 300px;
+}
+
+.card-image{
+    height: 1000px
+}
